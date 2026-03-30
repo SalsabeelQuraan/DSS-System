@@ -98,7 +98,7 @@ The system follows a modular architecture:
 
 ## 👩‍💻 Team Members
 
-* **Team Leader**: @laiilla01
-* **Team Memmber**: @SalsabeelQuraan
-* **Team Memmber**: @Noor-M4
-* **Team Memmber**: @RowaaHatamleh
+* **Team Leader**: Laila Al-Omari
+* **Team Memmber**: Salsabeel Qura'an
+* **Team Memmber**: Noor Shakhatreh
+* **Team Memmber**: Rowa'a Hatamleh
