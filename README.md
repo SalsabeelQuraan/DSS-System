@@ -94,6 +94,7 @@ The system follows a modular architecture:
 * Evaluate profitability
 * Forecast sales trends
 * Test pricing or cost scenarios
+  
 * Support strategic planning
 
 ## 👩‍💻 Team Members
